@@ -1,0 +1,9 @@
+jupyter
+torch
+torchvision
+torchmetrics
+matplotlib
+segmentation-models-pytorch
+pandas
+tqdm
+numpy
