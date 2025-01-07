@@ -1,4 +1,5 @@
 jupyter
+numpy
 torch
 torchvision
 torchmetrics
@@ -6,4 +7,4 @@ matplotlib
 segmentation-models-pytorch
 pandas
 tqdm
-numpy
+tensorboard
